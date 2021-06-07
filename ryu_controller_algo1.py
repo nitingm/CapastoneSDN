@@ -35,7 +35,7 @@ IS_CONGESTED_PERIOD = 1                     #   Congestion check period to check
 #   Mininet mac and ip addresses of controller and robot
 CONTROLLER_MAC = '00:00:00:00:00:01'
 H1_MAC = '00:00:00:00:00:02'
-REMOTE_MAC = '00:00:00:00:00:03'
+ROBOT_MAC = '00:00:00:00:00:03'
 
 CONTROLLER_IP = '10.0.0.1'
 ROBOT_IP = '10.0.0.3'
